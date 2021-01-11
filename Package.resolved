@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "PackageLower",
+        "repositoryURL": "https://github.com/xho95/PackageLower.git",
+        "state": {
+          "branch": null,
+          "revision": "f8747b5d65149c99a46f64808430bffbf05295c0",
+          "version": "0.0.2"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
